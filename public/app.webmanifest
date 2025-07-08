@@ -1,0 +1,15 @@
+{
+  "name": "Fullstack Movie App",
+  "short_name": "Fullstack Movie App",
+  "theme_color": "#43281C",
+  "display": "browser",
+  "background_color": "#56bce8",
+  "description": "Go app for Movies streaming.",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
