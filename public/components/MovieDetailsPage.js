@@ -56,7 +56,7 @@ export default class MovieDetailsPage extends HTMLElement {
   }
 
   connectedCallback() {
-    this.id = 14;
+    this.id = this.params[0];
 
     this.render();
   }
